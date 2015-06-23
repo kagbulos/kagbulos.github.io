@@ -82,8 +82,12 @@ a {
 .welcome-message {
   font-style: italic;
   font-size: 18px;
-  color: #F3F3F3;
+  color: #FFFFFF;
   line-height: 28px;
+}
+
+#role {
+  color: #FFFFFF;
 }
 
 #skillsH3 {

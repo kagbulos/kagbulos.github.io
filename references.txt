@@ -1,0 +1,4 @@
+Websites used for project:
+http://www.w3schools.com/js/
+http://en.wikipedia.org/wiki/JavaScript
+Udacity Javascript Basics Course

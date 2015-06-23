@@ -20,7 +20,7 @@ var bio = {
 	"Java",
 	"Javascript"
 	],
-	"biopic": "images\\fry.jpg",
+	"biopic": "images\\rsz_profilepic.jpg",
 	"display": function(){
 	    var formattedname = HTMLheaderName.replace("%data%",bio.name);
 	    var formattedrole = HTMLheaderRole.replace("%data%",bio.role);
